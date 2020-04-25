@@ -15,7 +15,7 @@ body {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
     grid-template-rows: 300px auto;
-    grid-template-areas: ". header ." ". main .";
+    grid-template-areas: "header header header" ". main .";
 }
 
 header {
@@ -107,4 +107,8 @@ main {
         color: #fff202;
         width: 605px;
         text-align: center;
+    }
+
+    .project_container iframe {
+        grid-column: 1/3;
     }
