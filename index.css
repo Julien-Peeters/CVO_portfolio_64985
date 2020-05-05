@@ -82,7 +82,7 @@ main {
 
 .project_container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 300px 300px;
     grid-template-rows: repeat( auto, auto);
     grid-gap: 5px;
     padding-bottom: 5px;
