@@ -109,6 +109,11 @@ main {
         text-align: center;
     }
 
+    .project_container p {
+        margin: 5px;
+        color: #fff202;
+    }
+
     .project_container iframe {
         grid-column: 1/3;
     }
