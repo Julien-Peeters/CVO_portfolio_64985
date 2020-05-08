@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\images",
+    "\\images\\3Danim"
   ],
-  "SelectedNode": "\\index.css",
+  "SelectedNode": "\\images\\3Danim\\blenderRAWvsACES.png",
   "PreviewInSolutionExplorer": false
 }
